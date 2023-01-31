@@ -1,0 +1,21 @@
+@font-face {
+    font-family: ´nueva fuente;
+    src: url();
+}
+
+body {
+    background-image: url();
+    background-size: cover;
+
+    font-family: 'Courier New', Arial, Helvetica, sans-serif,;
+    font-size: large;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+h2 {
+    color: rgb(255, 127, 155);
+}
+
